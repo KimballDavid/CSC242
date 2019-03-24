@@ -1,0 +1,3 @@
+﻿  SortNum.cpp
+c:\users\school\desktop\week3hw\sortnum\sortnum\sortnum.cpp(45): warning C4091: '': ignored on left of 'void' when no variable is declared
+  SortNum.vcxproj -> C:\Users\School\Desktop\Week3Hw\SortNum\Debug\SortNum.exe

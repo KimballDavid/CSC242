@@ -1,0 +1,5 @@
+﻿  q3.cpp
+c:\users\school\desktop\final\q3\q3\q3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\school\desktop\final\q3\q3\q3.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\school\desktop\final\q3\q3\q3.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  q3.vcxproj -> C:\Users\School\Desktop\final\q3\Debug\q3.exe

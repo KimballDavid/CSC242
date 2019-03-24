@@ -1,0 +1,4 @@
+﻿  Sentence.cpp
+c:\users\school\desktop\midterm_stuff\sentence\sentence\sentence.cpp(37): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\school\desktop\midterm_stuff\sentence\sentence\sentence.cpp(38): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Sentence.vcxproj -> C:\Users\School\Desktop\MIdterm_Stuff\Sentence\Sentence\Debug\Sentence.exe

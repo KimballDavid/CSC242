@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(29): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(31): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(32): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(33): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(34): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(35): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(36): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(37): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(38): warning C4552: '/': result of expression not used
+c:\users\school\desktop\week2hw\project1\project1\source.cpp(23): warning C4101: 'd10': unreferenced local variable
+  Project1.vcxproj -> C:\Users\School\Desktop\Week2HW\Project1\Debug\Project1.exe
